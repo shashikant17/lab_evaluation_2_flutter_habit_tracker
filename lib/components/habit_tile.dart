@@ -40,6 +40,14 @@ class HabitTile extends StatelessWidget {
               icon: Icons.delete,
               borderRadius: BorderRadius.circular(12),
             ),
+
+            // priority
+            // SlidableAction(
+            //   onPressed: habitCompleted,
+            //   backgroundColor: Colors.amber,
+            //   icon: Icons.check,
+            //   borderRadius: BorderRadius.circular(12),
+            // ),
           ],
         ),
         child: Container(
